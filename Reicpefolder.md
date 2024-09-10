@@ -1,7 +1,7 @@
 # reicpes-example
 
-Flower are cool
-Seeds are oil
+Flower Smell good
+Seeds are planted in the ground
 Milk Cows drink water
 Sauce what even is this
 List of car parts: pizza is best thing ever
