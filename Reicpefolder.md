@@ -1,9 +1,9 @@
 # reicpes-example
 
-Flower are very nice smelling 
-Seeds
-Milk Cows drink oil not milk
-Sauce is only good with spaghetti 
+Flower are cool
+Seeds are oil
+Milk Cows drink water
+Sauce what even is this
 List of car parts: pizza is best thing ever
 Bakery's have the best cake
 List of ingredients
